@@ -66,6 +66,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\portfolio\fullsize\mobile.jpg" />
+    <Content Include="img\portfolio\fullsize\print.jpg" />
     <Content Include="less\creative.less" />
     <Content Include="less\mixins.less" />
     <Content Include="less\variables.less" />
@@ -185,7 +187,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>49982</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>

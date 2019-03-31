@@ -1,13 +1,10 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication1.WebForm1" %>
 
 
-
-
-
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 
-<head runat="server">
+<head>
 
     <!DOCTYPE html>
 
@@ -18,7 +15,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Creative - Start Bootstrap Theme</title>
+    <title>ZIA QURESHI</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -148,90 +145,90 @@
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/1.jpg" class="portfolio-box">
+                    <a href="img/portfolio/fullsize/print.jpg" class="portfolio-box">
                         <img src="img/printers/hp 100.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Click Here
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    To View Details Of Products
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/2.jpg" class="portfolio-box">
+                    <a href="img/portfolio/fullsize/print.jpg" class="portfolio-box">
                         <img src="img/printers/hp 475.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Click Here
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    To View Details Of Products
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/3.jpg" class="portfolio-box">
+                    <a href="img/portfolio/fullsize/print.jpg" class="portfolio-box">
                         <img src="img/printers/hpo 400.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Click Here
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    To View Details Of Products
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/4.jpg" class="portfolio-box">
+                    <a href="img/portfolio/fullsize/mobile.jpg" class="portfolio-box">
                         <img src="img/printers/iphone.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Click Here
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    To View Details Of Products
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/5.jpg" class="portfolio-box">
+                    <a href="img/portfolio/fullsize/print.jpg" class="portfolio-box">
                         <img src="img/printers/cannon 6670.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Click Here
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    To View Details Of Products
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <a href="img/portfolio/fullsize/6.jpg" class="portfolio-box">
+                    <a href="img/portfolio/fullsize/print.jpg" class="portfolio-box">
                         <img src="img/printers/laptop.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Click Here
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    To View Details Of Products
                                 </div>
                             </div>
                         </div>
@@ -247,7 +244,7 @@
                 <h2>COMPANY OWNER</h2>
                 <p>ZIA QURESHI </p>
                 <p>JNP SIGNAL INDUSTRIAL AREA 5 SHARJAH UAE</p>
-                <p>SHOP NO.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WAREHOUSE NO.</p>
+                <p>SHOP: ZIA ELECT DEVICES TR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WAREHOUSE</p>
             </div>
         </div>
     </aside>
@@ -264,6 +261,8 @@
                     <i class="fa fa-phone fa-3x sr-contact"></i>
                     <p>Zia Qureshi - +971501941109&nbsp; </p>
                     <p>Danial Zia - +971522724389</p>
+                    <p>WHATSAPP Zia Qureshi - +971501941109&nbsp; </p>
+                    <p>WHATSAPP Danial Zia - +92331897311</p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
